@@ -8,7 +8,6 @@ The loop runs n times, printing a each time.
 It calculates the next term as a + b, then updates a and b.
 
 
-Absolutely! Let’s explore the **Fibonacci series** in simple terms, without any code.
 
 ---
 
