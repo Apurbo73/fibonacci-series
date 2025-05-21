@@ -1,4 +1,4 @@
-##﻿# Fibonacci Series
+##﻿# Fibonacci Series:
  
 📝 Explanation:
 a and b start as 0 and 1, the first two Fibonacci numbers.
