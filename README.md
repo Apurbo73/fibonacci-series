@@ -64,4 +64,3 @@ The Fibonacci series appears in many natural and human-made systems, such as:
 
 ---
 
-Let me know if you'd like a visual explanation or a real-world example!
