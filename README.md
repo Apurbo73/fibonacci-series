@@ -67,4 +67,4 @@ The Fibonacci series appears in many natural and human-made systems, such as:
 #### The do-while loop executes the code block at least once, even if the condition is false initially.
 Explanation:
 The do-while loop always executes the code block at least once because it checks the condition after the first iteration
-
+#### If the initial condition of a while loop is false, the loop is skipped, and the code inside the loop is not executed
